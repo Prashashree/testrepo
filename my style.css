@@ -1,0 +1,51 @@
+ body
+      {
+        background:pink;
+        height: 1000px;
+        width:550px;
+      } 
+  header
+
+      {
+         background-color:skyblue;
+         border:10px solid pink;
+         height: 75px;width:500px;
+         text-align: center;
+         font-size:50px;
+         color:white;
+      } 
+        
+ aside
+      {
+         background-color:blue;
+        border:10px solid pink;
+         float:left;
+        width:150px;
+        height:250px;
+        font-size:50px;
+       color:white; 
+       justify-content: center;
+       display: flex; align-items: center;
+      }   
+        
+ article
+      {   	
+         background-color:purple;
+         border:10px solid pink;
+         height:250px;width:500px;
+         text-align:center;font-size:50px;
+         color:white;
+         justify-content: center;
+         align-items: center;
+      }   
+        
+ footer
+     {    
+         background-color:skyblue;
+         border:10px solid pink;
+         height:75px;
+        width:500px;
+        text-align: center;
+        font-size:50px;
+        color:white;
+      } 
